@@ -1,6 +1,15 @@
 .header{
     background-color: purple;
-    margin: 0;
-    padding: 0;
+    padding: 1rem 1rem 0;
     border: 1px solid black;
+}
+.dashboard{
+    margin-right: 75%;
+    border: 1px solid black;
+    text-align: center;
+}
+.foto{
+    width: 45%;
+    height: 45%;
+    border-radius: 50px;
 }
