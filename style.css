@@ -1,6 +1,6 @@
 .header{
     background-color: purple;
-    padding: 1rem 1rem 0;
+    padding: 1rem 1rem 0 ;
     border: 1px solid black;
 }
 .dashboard{
@@ -8,8 +8,13 @@
     border: 1px solid black;
     text-align: center;
 }
+li{
+    list-style: none;
+    
+}
 .foto{
-    width: 45%;
-    height: 45%;
-    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
 }
