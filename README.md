@@ -26,12 +26,14 @@ Página de portfólio pessoal criada com **HTML e CSS**, desenvolvida a partir d
 ## Estrutura do projeto
 
 ```
-HTML-Oxetech/
-├── index.html    # Estrutura da página
-├── style.css     # Estilos e layout
-├── perfil.jpeg   # Foto de perfil
-├── oxetech-html02.png   # Print da página
-└── README.md
+  HTML-Oxetech/
+  ├── index.html
+  ├── style.css
+  ├── perfil.jpeg
+  ├── oxetech-html02.png
+  ├── certificado-html-css.pdf
+  ├── LICENSE
+  └── README.md
 ```
 
 ## Como executar
@@ -50,12 +52,13 @@ Não é necessário instalar nenhuma dependência.
 - Criar degradês e tornar a página responsiva com media queries
 - Registrar o progresso com commits e documentar o projeto no GitHub
 
-## Próximos passos
+## Certificação
 
-- [ ] Estrelas de nível nas habilidades e nos idiomas
-- [ ] Barra de progresso no "Nível do Perfil"
-- [ ] Links clicáveis na lateral (LinkedIn e GitHub)
-- [ ] Ícones no menu
+- **Trilha:** Introdução a HTML e CSS (OxeTech)
+- **Status:** Concluída
+- **Nota:** 9/10
+- **Data de conclusão:** 10/2026
+- **Certificado:** [Ver certificado](certificado-html-css.pdf)
 
 ## Autor
 
